@@ -19,5 +19,7 @@ devices. She then wants you to select one Bellabeat product to apply these insig
 will guide my analysis:
 
 What are some trends in smart device usage?
+
 How could these trends apply to Bellabeat customers?
+
 How could these trends help influence Bellabeat marketing?
