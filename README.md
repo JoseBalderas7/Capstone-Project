@@ -39,3 +39,12 @@ Key stakeholders include Urška Sršen, Bellabeat's cofounder and Chief Creative
 ### Prepare
 
 For this analysis, the FitBit Fitness Tracker Data was used. This dataset, available on Kaggle by Mobius under the Public Domain Creative Commons License, this includes detailed records from thirty Fitbit users who consented to share their data. It provides minute-by-minute information on physical activity, heart rate, and sleep patterns, along with data on daily activities and steps, offering valuable insights into user habits and behaviors.
+The FitBit Fitness Tracker data was collected in 2016, which means it may not accurately reflect current trends.
+
+Moreover, the relatively small sample size of 33 could introduce bias. A larger sample would provide a more comprehensive view of the population and improve the accuracy of the results. Additionally, the absence of demographic details is a drawback. Given that Bellabeat focuses on women and menstruating individuals, having such data would have enhanced the robustness of the recommendations.
+
+
+
+
+
+
