@@ -48,3 +48,13 @@ Moreover, the relatively small sample size of 33 could introduce bias. A larger 
 
 I used Excel to clean and structure the datasets, and Tableau to generate visualizations from the processed data.
 The dataset did not specify a unit of measurement for distance, so I assumed it was recorded in miles, given Fitbit's American origin. During the review, I identified 33 User IDs, while the dataset description mentioned only 30. Three of these IDs had fewer than 19 days of recorded activity, compared to an average of 29.9 days for the other users over the 31-day period. To maintain the integrity of the original data, I created a new file named procActiData.xlsx and removed the three outliers (2347167796, 4057192912, and 8253242879) to better align with the dataset description and enhance the quality of the analysis. I also verified that the data types for each column were consistent with their intended purpose.
+
+## Analyze 
+
+Throughout the dataset’s timeframe, three holidays were noted: Earth Day, Cinco de Mayo, and Mother's Day. On Earth Day, steps dropped by 0.15% compared to the average for Fridays, but there was a significant rise in Very Active minutes by 22.75% and Moderately Active minutes by 8.23%.
+
+Cinco de Mayo saw a notable increase in activity, with steps up by 17.11%, Very Active minutes increasing by 12.76%, and Moderately Active minutes rising by 32.52% compared to the average for Thursdays. Conversely, on Mother's Day, steps rose by 2.47% and Moderately Active minutes increased by 16.67% compared to the average for Sundays. However, Very Active minutes saw a decline of 14.45%.
+
+## Share 
+
+During holidays, activity levels often rise, suggesting that social events encourage more movement. The Department of Health and Human Services recommends a minimum of 150 minutes of Moderate Activity or 75 minutes of Vigorous Activity per week. In this dataset, the typical user recorded 149.9 minutes of Very Active time and 94.4 minutes of Moderately Active time each week. This level of activity meets the recommended standards, indicating that users generally maintain a healthy level of physical exercise.
