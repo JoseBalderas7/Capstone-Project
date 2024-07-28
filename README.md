@@ -1,4 +1,4 @@
-# Capstone Project Case Study 2: How Can a Wellness Technology Company Play It Smart?
+cel# Capstone Project Case Study 2: How Can a Wellness Technology Company Play It Smart?
 
 ## Introduction
 Hello my name is Jose and I will be taking on Case Study #2 How Can a Wellness Technology Company Play It Smart? for my Capstone Project
@@ -46,5 +46,5 @@ Moreover, the relatively small sample size of 33 could introduce bias. A larger 
 ## Process 
 
 
-I used two main tools for this analysis: RStudio to clean and structure the datasets, and Tableau to generate visualizations from the processed data.
+I used Excel to clean and structure the datasets, and Tableau to generate visualizations from the processed data.
 The dataset did not specify a unit of measurement for distance, so I assumed it was recorded in miles, given Fitbit's American origin. During the review, I identified 33 User IDs, while the dataset description mentioned only 30. Three of these IDs had fewer than 19 days of recorded activity, compared to an average of 29.9 days for the other users over the 31-day period. To maintain the integrity of the original data, I created a new file named processedActivityData.xlsx and removed the three outliers (2347167796, 4057192912, and 8253242879) to better align with the dataset description and enhance the quality of the analysis. I also verified that the data types for each column were consistent with their intended purpose.
