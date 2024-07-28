@@ -43,8 +43,9 @@ The FitBit Fitness Tracker data was collected in 2016, which means it may not ac
 
 Moreover, the relatively small sample size of 33 could introduce bias. A larger sample would provide a more comprehensive view of the population and improve the accuracy of the results. Additionally, the absence of demographic details is a drawback. Given that Bellabeat focuses on women and menstruating individuals, having such data would have enhanced the robustness of the recommendations.
 
+## Process 
 
 
-
+I used two main tools for this analysis: RStudio to clean and structure the datasets, and Tableau to generate visualizations from the processed data. My first step was configuring RStudio by installing the required library packages for data preparation and cleaning.
 
 
