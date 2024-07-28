@@ -23,3 +23,15 @@ What are some trends in smart device usage?
 How could these trends apply to Bellabeat customers?
 
 How could these trends help influence Bellabeat marketing?
+
+I will be producing a report with the following deliverables:
+1. A clear summary of the business task
+2. A description of all data sources used
+3. Documentation of any cleaning or manipulation of data
+4. A summary of your analysis
+5. Supporting visualizations and key findings
+6. Your top high-level content recommendations based on your analysis
+
+My objective is to examine FitBit smart device user data to discover trends, patterns, and connections within health-related metrics. This will help pinpoint growth opportunities and develop marketing strategies and recommendations for the Marketing department.
+
+Key stakeholders include Urška Sršen, Bellabeat's cofounder and Chief Creative Officer; Sando Mur, Bellabeat's cofounder and mathematician; and the Bellabeat marketing analytics team.
