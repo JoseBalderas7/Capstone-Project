@@ -35,3 +35,7 @@ I will be producing a report with the following deliverables:
 My objective is to examine FitBit smart device user data to discover trends, patterns, and connections within health-related metrics. This will help pinpoint growth opportunities and develop marketing strategies and recommendations for the Marketing department.
 
 Key stakeholders include Urška Sršen, Bellabeat's cofounder and Chief Creative Officer; Sando Mur, Bellabeat's cofounder and mathematician; and the Bellabeat marketing analytics team.
+
+### Prepare
+
+For this analysis, the FitBit Fitness Tracker Data was used. This dataset, available on Kaggle by Mobius under the Public Domain Creative Commons License, this includes detailed records from thirty Fitbit users who consented to share their data. It provides minute-by-minute information on physical activity, heart rate, and sleep patterns, along with data on daily activities and steps, offering valuable insights into user habits and behaviors.
