@@ -47,5 +47,18 @@ Moreover, the relatively small sample size of 33 could introduce bias. A larger 
 
 
 I used two main tools for this analysis: RStudio to clean and structure the datasets, and Tableau to generate visualizations from the processed data. My first step was configuring RStudio by installing the required library packages for data preparation and cleaning.
+These are the following:
+
+install.packages("tidyverse")
+install.packages("here")
+install.packages("janitor")
+install.packages("lubridate")
+install.packages("skimr")
+
+library(tidyverse)
+library(here)
+library(janitor)
+library(lubridate)
+library(skimr)
 
 
