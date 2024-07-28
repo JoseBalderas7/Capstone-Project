@@ -59,4 +59,4 @@ Cinco de Mayo saw a notable increase in activity, with steps up by 17.11%, Very 
 
 During holidays, activity levels often rise, suggesting that social events encourage more movement. The Department of Health and Human Services recommends a minimum of 150 minutes of Moderate Activity or 75 minutes of Vigorous Activity per week. In this dataset, the typical user recorded 149.9 minutes of Very Active time and 94.4 minutes of Moderately Active time each week. This level of activity meets the recommended standards, indicating that users generally maintain a healthy level of physical exercise.
 
-![https://s-media-cache-ak0.pinimg.com/736x/4a/81/79/4a8179462cfdf39054a418efd4cb743e.jpg](https://imgur.com/a/VI5uU6U)
+![capstonestudy2](https://github.com/user-attachments/assets/10759a6a-b550-446f-8da0-372039958a33)
