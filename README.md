@@ -60,3 +60,16 @@ Cinco de Mayo saw a notable increase in activity, with steps up by 17.11%, Very 
 During holidays, activity levels often rise, suggesting that social events encourage more movement. The Department of Health and Human Services recommends a minimum of 150 minutes of Moderate Activity or 75 minutes of Vigorous Activity per week. In this dataset, the typical user recorded 149.9 minutes of Very Active time and 94.4 minutes of Moderately Active time each week. This level of activity meets the recommended standards, indicating that users generally maintain a healthy level of physical exercise.
 
 ![capstonestudy2](https://github.com/user-attachments/assets/10759a6a-b550-446f-8da0-372039958a33)
+
+## Act
+
+
+The current Bellabeat audience is already active and compliant with health guidelines, so there might be value in reaching out to those who aren’t meeting these recommendations. Bellabeat’s unique product designs, such as the Leaf and Time, offer an alternative to conventional fitness trackers like Fitbit, which could appeal to people concerned about body image or social stigma by presenting these products as stylish, covert health monitors.
+
+Furthermore, products like the Bellabeat Spring could be targeted more intensively toward the existing active user base, as these individuals are likely more interested in tracking their hydration levels. This strategy could cater effectively to the needs of a physically fit demographic.
+
+
+
+
+
+
